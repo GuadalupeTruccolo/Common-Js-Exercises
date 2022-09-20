@@ -1,4 +1,4 @@
-# Common-Js-Exercises
+# Web-Development-2
 
 // English 
 
